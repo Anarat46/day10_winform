@@ -1,0 +1,16 @@
+D:\iceworker\7.3.mark1\7.3.mark1\bin\Debug\net8.0-windows\7.3.mark1.exe
+D:\iceworker\7.3.mark1\7.3.mark1\bin\Debug\net8.0-windows\7.3.mark1.deps.json
+D:\iceworker\7.3.mark1\7.3.mark1\bin\Debug\net8.0-windows\7.3.mark1.runtimeconfig.json
+D:\iceworker\7.3.mark1\7.3.mark1\bin\Debug\net8.0-windows\7.3.mark1.dll
+D:\iceworker\7.3.mark1\7.3.mark1\bin\Debug\net8.0-windows\7.3.mark1.pdb
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\_7._3.mark1.Form1.resources
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.csproj.GenerateResource.cache
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.GeneratedMSBuildEditorConfig.editorconfig
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.AssemblyInfoInputs.cache
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.AssemblyInfo.cs
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.csproj.CoreCompileInputs.cache
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.dll
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\refint\7.3.mark1.dll
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.pdb
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\7.3.mark1.genruntimeconfig.cache
+D:\iceworker\7.3.mark1\7.3.mark1\obj\Debug\net8.0-windows\ref\7.3.mark1.dll
